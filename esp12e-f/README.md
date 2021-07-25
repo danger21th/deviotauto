@@ -2,6 +2,7 @@
 esp8266 &amp; esp32 app to iot
 link for load app https://bit.ly/2Uo6gY8 
 Model reference: ESP12F_Relay_X4 
+
 https://deviot.blogspot.com/2021/07/simple-code-esp8266-for-deviot-app.html
 
 https://bit.ly/3BEkLIP  click-to-buy
