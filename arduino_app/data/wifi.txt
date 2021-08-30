@@ -1,0 +1,1 @@
+{"set_ssid":"COMFAST_xxxxxx","set_password":"xxxxxxx"}

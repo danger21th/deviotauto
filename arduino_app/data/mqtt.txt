@@ -1,0 +1,1 @@
+{"servertype":"mosquitto","client_id":"esp8266|esp32","mqtt_server":"192.168.1.36","mqtt_port":"1883","mqtt_usrname":"u","mqtt_passwd":"p","mqtttopic":"/home/topic","mqttget":"/home/get",}
