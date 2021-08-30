@@ -6,6 +6,7 @@ https://deviot.blogspot.com/2021/07/simple-code-esp8266-for-deviot-app.html
 
 https://bit.ly/3BEkLIP  click-to-buy lazada 
 https://bit.ly/3zvQU37  click-to-buy shoppee
+![](https://raw.githubusercontent.com/danger21th/deviotauto/main/image/Screenshot_1630307033.png)
 ![](https://raw.githubusercontent.com/danger21th/deviotauto/main/image/Screenshot_1628327515.png)
 ![](https://raw.githubusercontent.com/danger21th/deviotauto/main/image/Screenshot_1627313472.png)
 ![](https://raw.githubusercontent.com/danger21th/deviotauto/main/image/Screenshot_1627806924_200.png)
